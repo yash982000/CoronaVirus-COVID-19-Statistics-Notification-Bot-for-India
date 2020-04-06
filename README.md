@@ -4,5 +4,5 @@ Also, if any state has come up new with its first case, then also it notifies th
 Further, I am lookig forward to extend it to the statistics of world.
 
 # Future Possible Add-Ons
-This can be extended to fetching details from the worldometer website.
+This can be extended to fetching details from the worldometer website where there will be statistics of the whole world of over more than 200 countries.
 
