@@ -5,6 +5,5 @@ Further, I am lookig forward to extend it to the statistics of world.
 
 
 # Future Possible Add-Ons
-
 This can be extended to fetching details from the worldometer website where there will be statistics of the whole world of over more than 200 countries.  
 
