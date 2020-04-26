@@ -7,5 +7,6 @@ Further, I am lookig forward to extend it to the statistics of world.
 
 # Future Possible Add-Ons
  
+ 
 This can be extended to fetching details from the worldometer website where there will be statistics of the whole world of over more than 200 countries. The data from their country can be fetched from their respective head medical organizations' official website.
 
